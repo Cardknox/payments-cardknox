@@ -1,0 +1,27 @@
+[{
+  "language": "Dutch",
+  "i18n": "nl",
+  "ns": "cardknox-paymentmethod",
+  "translation": {
+    "reaction-payments": {
+      "admin": {
+        "shortcut": {
+          "cardknoxPaymentProviderLabel": "voorbeeld Betaling",
+          "cardknoxPaymentProviderTitle": "voorbeeld Betaling"
+        },
+        "dashboard": {
+          "cardknoxPaymentProviderLabel": "voorbeeld Betaling",
+          "cardknoxPaymentProviderTitle": "voorbeeld Betaling",
+          "cardknoxPaymentProviderDescription": "Voorbeeld Payment Method"
+        },
+        "paymentSettings": {
+          "cardknoxPaymentLabel": "voorbeeld Provider",
+          "cardknoxPaymentSettingsLabel": "voorbeeld Betaling",
+          "cardknoxCredentials": "Dit is een voorbeeld betaalmethode setting.",
+          "apiClientId": "API Client ID",
+          "supportedMethodsLabel": "Betaalmethoden ondersteunde methoden"
+        }
+      }
+    }
+  }
+}]

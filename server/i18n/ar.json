@@ -1,0 +1,27 @@
+[{
+  "language": "Arabic",
+  "i18n": "ar",
+  "ns": "cardknox-paymentmethod",
+  "translation": {
+    "reaction-payments": {
+      "admin": {
+        "shortcut": {
+          "cardknoxPaymentProviderLabel": "مثال الدفع",
+          "cardknoxPaymentProviderTitle": "مثال الدفع"
+        },
+        "dashboard": {
+          "cardknoxPaymentProviderLabel": "مثال الدفع",
+          "cardknoxPaymentProviderTitle": "مثال الدفع",
+          "cardknoxPaymentProviderDescription": "مثال طريقة الدفع"
+        },
+        "paymentSettings": {
+          "cardknoxPaymentLabel": "مزود سبيل المثال",
+          "cardknoxPaymentSettingsLabel": "مثال الدفع",
+          "cardknoxCredentials": "هذا هو إعداد سبيل المثال طريقة الدفع.",
+          "apiClientId": "معرف العميل API",
+          "supportedMethodsLabel": "طرق دعم مزود الدفع"
+        }
+      }
+    }
+  }
+}]

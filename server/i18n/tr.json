@@ -1,0 +1,27 @@
+[{
+  "language": "Turkish",
+  "i18n": "tr",
+  "ns": "cardknox-paymentmethod",
+  "translation": {
+    "reaction-payments": {
+      "admin": {
+        "shortcut": {
+          "cardknoxPaymentProviderLabel": "Örnek Ödeme",
+          "cardknoxPaymentProviderTitle": "Örnek Ödeme"
+        },
+        "dashboard": {
+          "cardknoxPaymentProviderLabel": "Örnek Ödeme",
+          "cardknoxPaymentProviderTitle": "Örnek Ödeme",
+          "cardknoxPaymentProviderDescription": "Örnek Ödeme Yöntemi"
+        },
+        "paymentSettings": {
+          "cardknoxPaymentLabel": "Örnek Sağlayıcı",
+          "cardknoxPaymentSettingsLabel": "Örnek Ödeme",
+          "cardknoxCredentials": "Bu örnek bir ödeme yöntemi ayarıdır.",
+          "apiClientId": "API İstemci Kimliği",
+          "supportedMethodsLabel": "Ödeme sağlayıcısı tarafından desteklenen yöntemler"
+        }
+      }
+    }
+  }
+}]

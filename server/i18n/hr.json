@@ -1,0 +1,27 @@
+[{
+  "language": "Croatian",
+  "i18n": "hr",
+  "ns": "cardknox-paymentmethod",
+  "translation": {
+    "reaction-payments": {
+      "admin": {
+        "shortcut": {
+          "cardknoxPaymentProviderLabel": "Primjer plaćanja",
+          "cardknoxPaymentProviderTitle": "Primjer plaćanja"
+        },
+        "dashboard": {
+          "cardknoxPaymentProviderLabel": "Primjer plaćanja",
+          "cardknoxPaymentProviderTitle": "Primjer plaćanja",
+          "cardknoxPaymentProviderDescription": "Primjer Način plaćanja"
+        },
+        "paymentSettings": {
+          "cardknoxPaymentLabel": "Primjer Provider",
+          "cardknoxPaymentSettingsLabel": "Primjer plaćanja",
+          "cardknoxCredentials": "To je postavka primjer načina plaćanja.",
+          "apiClientId": "ID API klijenta",
+          "supportedMethodsLabel": "Metode plaćanja pružatelja usluga plaćanja"
+        }
+      }
+    }
+  }
+}]

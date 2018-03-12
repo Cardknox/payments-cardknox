@@ -1,0 +1,27 @@
+[{
+  "language": "English",
+  "i18n": "en",
+  "ns": "cardknox-paymentmethod",
+  "translation": {
+    "reaction-payments": {
+      "admin": {
+        "shortcut": {
+          "cardknoxPaymentProviderLabel": "Cardknox Payment",
+          "cardknoxPaymentProviderTitle": "Cardknox Payment"
+        },
+        "dashboard": {
+          "cardknoxPaymentProviderLabel": "Cardknox Payment",
+          "cardknoxPaymentProviderTitle": "Cardknox Payment",
+          "cardknoxPaymentProviderDescription": "Cardknox Payment Method"
+        },
+        "paymentSettings": {
+          "cardknoxPaymentLabel": "Cardknox Provider",
+          "cardknoxPaymentSettingsLabel": "Cardknox Payment",
+          "cardknoxCredentials": "This is an cardknox payment method setting.",
+          "apiClientId": "API Client ID",
+          "supportedMethodsLabel": "Payment provider supported methods"
+        }
+      }
+    }
+  }
+}]

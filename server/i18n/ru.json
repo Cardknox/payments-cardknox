@@ -1,0 +1,27 @@
+[{
+  "language": "Russian",
+  "i18n": "ru",
+  "ns": "cardknox-paymentmethod",
+  "translation": {
+    "reaction-payments": {
+      "admin": {
+        "shortcut": {
+          "cardknoxPaymentProviderLabel": "Пример оплаты",
+          "cardknoxPaymentProviderTitle": "Пример оплаты"
+        },
+        "dashboard": {
+          "cardknoxPaymentProviderLabel": "Пример оплаты",
+          "cardknoxPaymentProviderTitle": "Пример оплаты",
+          "cardknoxPaymentProviderDescription": "Пример Способ оплаты"
+        },
+        "paymentSettings": {
+          "cardknoxPaymentLabel": "Пример Провайдер",
+          "cardknoxPaymentSettingsLabel": "Пример оплаты",
+          "cardknoxCredentials": "Это установка пример способ оплаты.",
+          "apiClientId": "API идентификатор клиента",
+          "supportedMethodsLabel": "Поддерживаемые методы поставщика платежей"
+        }
+      }
+    }
+  }
+}]

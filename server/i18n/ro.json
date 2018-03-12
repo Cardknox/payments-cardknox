@@ -1,0 +1,27 @@
+[{
+  "language": "Romanian",
+  "i18n": "ro",
+  "ns": "cardknox-paymentmethod",
+  "translation": {
+    "reaction-payments": {
+      "admin": {
+        "shortcut": {
+          "cardknoxPaymentProviderLabel": "Exemplul de plată",
+          "cardknoxPaymentProviderTitle": "Exemplul de plată"
+        },
+        "dashboard": {
+          "cardknoxPaymentProviderLabel": "Exemplul de plată",
+          "cardknoxPaymentProviderTitle": "Exemplul de plată",
+          "cardknoxPaymentProviderDescription": "Exemplul Metoda de plată"
+        },
+        "paymentSettings": {
+          "cardknoxPaymentLabel": "Exemplul Provider",
+          "cardknoxPaymentSettingsLabel": "Exemplul de plată",
+          "cardknoxCredentials": "Aceasta este o setare exemplu metodă de plată.",
+          "apiClientId": "ID-ul client API",
+          "supportedMethodsLabel": "Metode acceptate de furnizor de plăți"
+        }
+      }
+    }
+  }
+}]

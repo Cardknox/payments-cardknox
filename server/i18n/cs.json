@@ -1,0 +1,27 @@
+[{
+  "language": "Czech",
+  "i18n": "cs",
+  "ns": "cardknox-paymentmethod",
+  "translation": {
+    "reaction-payments": {
+      "admin": {
+        "shortcut": {
+          "cardknoxPaymentProviderLabel": "Příklad platba",
+          "cardknoxPaymentProviderTitle": "Příklad platba"
+        },
+        "dashboard": {
+          "cardknoxPaymentProviderLabel": "Příklad platba",
+          "cardknoxPaymentProviderTitle": "Příklad platba",
+          "cardknoxPaymentProviderDescription": "Příklad Způsob platby"
+        },
+        "paymentSettings": {
+          "cardknoxPaymentLabel": "Příklad Poskytovatel",
+          "cardknoxPaymentSettingsLabel": "Příklad platba",
+          "cardknoxCredentials": "Jedná se o nastavení příklad způsob platby.",
+          "apiClientId": "API ID klienta",
+          "supportedMethodsLabel": "Metody podporované poskytovatelem plateb"
+        }
+      }
+    }
+  }
+}]

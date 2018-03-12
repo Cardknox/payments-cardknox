@@ -1,0 +1,27 @@
+[{
+  "language": "Bulgarian",
+  "i18n": "bg",
+  "ns": "cardknox-paymentmethod",
+  "translation": {
+    "reaction-payments": {
+      "admin": {
+        "shortcut": {
+          "cardknoxPaymentProviderLabel": "Пример плащане",
+          "cardknoxPaymentProviderTitle": "Пример плащане"
+        },
+        "dashboard": {
+          "cardknoxPaymentProviderLabel": "Пример плащане",
+          "cardknoxPaymentProviderTitle": "Пример плащане",
+          "cardknoxPaymentProviderDescription": "Пример Начин на плащане"
+        },
+        "paymentSettings": {
+          "cardknoxPaymentLabel": "Пример Provider",
+          "cardknoxPaymentSettingsLabel": "Пример плащане",
+          "cardknoxCredentials": "Това е настройка за пример начина на плащане.",
+          "apiClientId": "API Client ID",
+          "supportedMethodsLabel": "Методи, поддържани от доставчика на плащания"
+        }
+      }
+    }
+  }
+}]

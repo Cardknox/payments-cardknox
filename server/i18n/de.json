@@ -1,0 +1,27 @@
+[{
+  "language": "German",
+  "i18n": "de",
+  "ns": "cardknox-paymentmethod",
+  "translation": {
+    "reaction-payments": {
+      "admin": {
+        "shortcut": {
+          "cardknoxPaymentProviderLabel": "Beispiel Zahlung",
+          "cardknoxPaymentProviderTitle": "Beispiel Zahlung"
+        },
+        "dashboard": {
+          "cardknoxPaymentProviderLabel": "Beispiel Zahlung",
+          "cardknoxPaymentProviderTitle": "Beispiel Zahlung",
+          "cardknoxPaymentProviderDescription": "Beispiel Zahlungsmethode"
+        },
+        "paymentSettings": {
+          "cardknoxPaymentLabel": "Beispiel Provider",
+          "cardknoxPaymentSettingsLabel": "Beispiel Zahlung",
+          "cardknoxCredentials": "Dies ist ein Beispiel Zahlungsmethode Einstellung.",
+          "apiClientId": "API-Client-ID",
+          "supportedMethodsLabel": "Zahlungsanbieter unterstützt Methoden"
+        }
+      }
+    }
+  }
+}]

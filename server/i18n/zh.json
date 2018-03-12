@@ -1,0 +1,27 @@
+[{
+  "language": "Chinese",
+  "i18n": "zh",
+  "ns": "cardknox-paymentmethod",
+  "translation": {
+    "reaction-payments": {
+      "admin": {
+        "shortcut": {
+          "cardknoxPaymentProviderLabel": "例如付款",
+          "cardknoxPaymentProviderTitle": "例如付款"
+        },
+        "dashboard": {
+          "cardknoxPaymentProviderLabel": "例如付款",
+          "cardknoxPaymentProviderTitle": "例如付款",
+          "cardknoxPaymentProviderDescription": "例如付款方法"
+        },
+        "paymentSettings": {
+          "cardknoxPaymentLabel": "例如供应商",
+          "cardknoxPaymentSettingsLabel": "例如付款",
+          "cardknoxCredentials": "这是一个例子付款方式设置。",
+          "apiClientId": "API客户端ID",
+          "supportedMethodsLabel": "付款提供商支持的方法"
+        }
+      }
+    }
+  }
+}]

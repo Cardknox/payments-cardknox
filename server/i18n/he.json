@@ -1,0 +1,26 @@
+[{
+  "language": "Hebrew",
+  "i18n": "he",
+  "ns": "cardknox-paymentmethod",
+  "translation": {
+    "reaction-payments": {
+      "admin": {
+        "shortcut": {
+          "cardknoxPaymentProviderLabel": "תשלום לדוגמה",
+          "cardknoxPaymentProviderTitle": "תשלום לדוגמה"
+        },
+        "dashboard": {
+          "cardknoxPaymentProviderLabel": "תשלום לדוגמה",
+          "cardknoxPaymentProviderTitle": "תשלום לדוגמה",
+          "cardknoxPaymentProviderDescription": "שיטת תשלום לדוגמה"
+        },
+        "paymentSettings": {
+          "cardknoxPaymentLabel": "ספק לדוגמה",
+          "cardknoxPaymentSettingsLabel": "תשלום לדוגמה",
+          "cardknoxCredentials": "זוהי הגדרה של שיטת תשלום לדוגמה.",
+          "apiClientId": "מזהה לקוח API"
+        }
+      }
+    }
+  }
+}]

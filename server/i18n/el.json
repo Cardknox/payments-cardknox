@@ -1,0 +1,27 @@
+[{
+  "language": "Greek",
+  "i18n": "el",
+  "ns": "cardknox-paymentmethod",
+  "translation": {
+    "reaction-payments": {
+      "admin": {
+        "shortcut": {
+          "cardknoxPaymentProviderLabel": "παράδειγμα πληρωμής",
+          "cardknoxPaymentProviderTitle": "παράδειγμα πληρωμής"
+        },
+        "dashboard": {
+          "cardknoxPaymentProviderLabel": "παράδειγμα πληρωμής",
+          "cardknoxPaymentProviderTitle": "παράδειγμα πληρωμής",
+          "cardknoxPaymentProviderDescription": "Παράδειγμα Μέθοδος Πληρωμής"
+        },
+        "paymentSettings": {
+          "cardknoxPaymentLabel": "παράδειγμα Provider",
+          "cardknoxPaymentSettingsLabel": "παράδειγμα πληρωμής",
+          "cardknoxCredentials": "Αυτή είναι μια ρύθμιση παράδειγμα τη μέθοδο πληρωμής.",
+          "apiClientId": "API ID πελάτη",
+          "supportedMethodsLabel": "Οι μέθοδοι υποστήριξης του παρόχου πληρωμών"
+        }
+      }
+    }
+  }
+}]

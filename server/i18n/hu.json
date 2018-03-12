@@ -1,0 +1,27 @@
+[{
+  "language": "Hungarian",
+  "i18n": "hu",
+  "ns": "cardknox-paymentmethod",
+  "translation": {
+    "reaction-payments": {
+      "admin": {
+        "shortcut": {
+          "cardknoxPaymentProviderLabel": "példa Fizetési",
+          "cardknoxPaymentProviderTitle": "példa Fizetési"
+        },
+        "dashboard": {
+          "cardknoxPaymentProviderLabel": "példa Fizetési",
+          "cardknoxPaymentProviderTitle": "példa Fizetési",
+          "cardknoxPaymentProviderDescription": "Példa Fizetési mód"
+        },
+        "paymentSettings": {
+          "cardknoxPaymentLabel": "példa Szolgáltató",
+          "cardknoxPaymentSettingsLabel": "példa Fizetési",
+          "cardknoxCredentials": "Ez egy példa a fizetési módszer beállítást.",
+          "apiClientId": "API ügyfél azonosító",
+          "supportedMethodsLabel": "Fizetés szolgáltatója támogatott módszerekkel"
+        }
+      }
+    }
+  }
+}]
